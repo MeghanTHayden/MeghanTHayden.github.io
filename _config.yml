@@ -22,7 +22,6 @@ repository               : "MeghanTHayden/MeghanTHayden.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  background       : "#5E3B49"
   avatar           : "profile.png"
   name             : "MT Hayden"
   pronouns         : "she/her"  
