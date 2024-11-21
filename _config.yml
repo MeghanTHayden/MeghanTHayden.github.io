@@ -7,6 +7,8 @@
 # server process.
 
 # Basic Site Settings
+theme                    : "minimal-mistakes-jekyll"
+minimal-mistakes-jekyll  : "aqua"
 locale                   : "en-US"
 title                    : "Meghan T Hayden"
 title_separator          : "-"
@@ -15,6 +17,7 @@ description              : &description "PhD Candidate at CU Boulder"
 url                      : https://MeghanTHayden.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MeghanTHayden/MeghanTHayden.github.io"
+#logo                     : "/assets/images/88x88.png" # Add a logo ahead of site name
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
