@@ -2,7 +2,7 @@
 title: "Decision‐making under uncertainty for species introductions into ecological networks"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-Ecology-Letters.md
+permalink: /publications/2023-Ecology-Letters.md
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-06
 venue: 'Ecology Letters'
