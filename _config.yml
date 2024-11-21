@@ -14,7 +14,7 @@ name                     : &name "Meghan T Hayden"
 description              : &description "PhD Candidate at CU Boulder"
 url                      : https://MeghanTHayden.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "MeghanTHayden.github.io"
+repository               : "MeghanTHayden/MeghanTHayden.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
