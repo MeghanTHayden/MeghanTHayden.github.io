@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Meghan Hayden's home on the web!
+I am a PhD candidate in the Dee Lab in the Department of Ecology & Evolutionary Biology at University of Colorado, Boulder. 
 
-Lorem ipsum.
+I study the impacts of global change on plant communities and ecosystem functioning, with a particular focus on drought effects on grasslands. I leverage remote sensing to map and explore variation in diversity and plant traits across space and time.
+
