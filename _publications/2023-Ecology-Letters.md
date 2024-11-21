@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publications/2023-Ecology-Letters.md
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2023-06
+date: 2023-06-01
 venue: 'Ecology Letters'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper1.pdf' # if you want to upload the file
