@@ -22,7 +22,7 @@ repository               : "MeghanTHayden/MeghanTHayden.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "/images/profile.png"
   name             : "MT Hayden"
   pronouns         : "she/her"  
   bio              : "PhD Candidate in Ecology"
