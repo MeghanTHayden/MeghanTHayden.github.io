@@ -7,8 +7,6 @@
 # server process.
 
 # Basic Site Settings
-theme                    : "minimal-mistakes-jekyll"
-minimal-mistakes-jekyll  : "aqua"
 locale                   : "en-US"
 title                    : "Meghan T Hayden"
 title_separator          : "-"
