@@ -1,6 +1,7 @@
 ---
 layout: archive
 permalink: /bioscape/
+author_profile: true
 title: "BioSCape"
 excerpt: "BioSCape"
 ---
