@@ -19,6 +19,9 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "BioSCape"
+    url: /bioscape/
     
-  - title: "Guide"
-    url: /markdown/
+ # - title: "Guide"
+ #  url: /markdown/
