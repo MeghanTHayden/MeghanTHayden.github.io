@@ -1,5 +1,6 @@
 ---
-permalink: /
+layout: archive
+permalink: /bioscape/
 title: "BioSCape"
 excerpt: "BioSCape"
 author_profile: true
