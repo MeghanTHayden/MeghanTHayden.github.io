@@ -5,4 +5,20 @@ author_profile: true
 title: "BioSCape"
 excerpt: "BioSCape"
 ---
-This page will show details corresponding to AGU poster: "Impacts of Invasive Alien Trees on Biodiversity and Ecosystem Functioning in the Greater Cape Floristic Region".
+
+{% include base_path %}
+
+<iframe src="/assets/pdfs/AGU-2024-Poster.pdf" width="100%" height="600px">
+    This browser does not support PDFs. Please <a href="/assets/pdfs/AGU-2024-Poster.pdf">download the PDF</a>.
+</iframe>
+
+Background
+======
+* Global change...
+
+Additional Methods
+======
+
+
+  
+
