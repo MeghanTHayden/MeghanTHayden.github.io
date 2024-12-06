@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download my CV](/files/Hayden-CV-12-6-2024.pdf)
+
 Education
 ======
 * Ph.D in Ecology & Evolutionary Biology, University of Colorado Boulder, 2025 (expected)
@@ -16,24 +18,46 @@ Education
 
 Work experience
 ======
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2024 - Present: Graduate Research Assistant
+  * University of Colorado Boulder, Ecology & Evolutionary Biology
+  * Funded by NASA Biodiversity Survey of the Cape
+  * Supervisors: Laura Dee (CU Boulder) & Peter Adler (Utah State University; BioSCape PI)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2023 - Spring 2024: Graduate Research Assistant
+  * University of Colorado Boulder, Earth Lab, Cooperative Institute for Research in the Environment
+  * Funded by NASA Biodiversity Survey of the Cape
+  * Supervisors: Matt Rossi (CU Boulder) & Natasha Stavros (Ball Aerospace; BioSCape PI)
   
+* Fall 2021: Graduate Research Assistant
+  * University of Colorado Boulder, Environmental Science
+  * Funded by 
+  * Supervisor: Steve Miller
+
+* Summer 2021: Graduate Research Fellow
+  * City of Boulder, Department of Climate Initiatives
+  * Supervisor: Brett KenCairn
+
+* Spring 2021: Graduate Research Assistant
+  * National Center for Atmospheric Research
+  * Supervisor: Will Weider
+  
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Proficient in Python & R programming languages.
+    * Basic skills in ENVI + IDL and JavaScript.
+  * Experienced working in cloud environments, including AWS.
+  * Experienced with version control and creating reproducible code.
+   * Works in GitHub.
+   * Knowledgeable about coding standards, unit testing, etc.
+
+* Remote Sensing
+  * Experience working with hyperspectral data from proximal and airborne platforms (NEON AOP, AVIRIS-NG), as well as LiDAR data from airborne platforms (LVIS).
+  * Experience with collecting data via handheld and drone-mounted instruments.
+  * Experience pulling together large datasets from different sources, including satellite imagery.
+  * Proficient using ArcGIS, QGIS and ENVI, as well as programming for remote sensing analyses (see above).
+
 
 Publications
 ======
@@ -43,16 +67,18 @@ Publications
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+Coming soon!
+//  <ul>{% for post in site.talks reversed %}
+//    {% include archive-single-talk-cv.html  %}
+//  {% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Coming soon!
+//  <ul>{% for post in site.teaching reversed %}
+//    {% include archive-single-cv.html %}
+//  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+Coming soon!
