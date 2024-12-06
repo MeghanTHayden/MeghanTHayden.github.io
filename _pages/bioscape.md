@@ -16,7 +16,7 @@ Background
 * These threats require large scale conservation and management efforts. However, understanding impacts at large scales is hampered by the challenge of external validity of small-scale experiments and internal validity of large-scale observational data.
 * Remote sensing expands scales of possibility for ecological understanding, but still carries the challenges associated with observational data for inferring causality. However, statistical approaches for causal inference allow us to better account for confounders and test the robustness of our results to varying assumptions.
 * Here, we attempt to scale up causal ecological relationships by integrating remote sensing and causal inference to address a pressing global change problem: invasion.
-* We do so using the Greater Cape Floristic Region of South Africa as a case study, due to the significant threat the region faces from invasive alien trees and because we have access to data from an unprecedented biodiversity campaign.
+* **We do so using the Greater Cape Floristic Region of South Africa as a case study, due to the significant threat the region faces from invasive alien trees and because we have access to data from the unprecedented biodiversity campaign conducted through NASA BioSCape.**
 
 Additional Methods
 ======
