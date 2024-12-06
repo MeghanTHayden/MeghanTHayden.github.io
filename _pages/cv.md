@@ -68,17 +68,21 @@ Publications
 Talks
 ======
 Coming soon!
-//  <ul>{% for post in site.talks reversed %}
-//    {% include archive-single-talk-cv.html  %}
-//  {% endfor %}</ul>
-  
+{% comment %}
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+{% endcomment %}
+
 Teaching
 ======
 Coming soon!
-//  <ul>{% for post in site.teaching reversed %}
-//    {% include archive-single-cv.html %}
-//  {% endfor %}</ul>
-  
+{% comment %}
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+{% endcomment %}
+
 Service and leadership
 ======
 Coming soon!
