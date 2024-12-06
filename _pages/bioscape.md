@@ -5,10 +5,14 @@ author_profile: true
 title: "BioSCape"
 excerpt: "BioSCape"
 ---
+AGU 2024
+======
 
 <iframe src="/images/AGU-2024-Poster.pdf" width="100%" height="600px">
     This browser does not support PDFs. Please <a href="/images/AGU-2024-Poster.pdf">download the PDF</a>.
 </iframe>
+
+**Please read below for more details on our motivation and methods.**
 
 Background
 ======
