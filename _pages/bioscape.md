@@ -8,8 +8,8 @@ excerpt: "BioSCape"
 
 {% include base_path %}
 
-<iframe src="/assets/pdfs/AGU-2024-Poster.pdf" width="100%" height="600px">
-    This browser does not support PDFs. Please <a href="/assets/pdfs/AGU-2024-Poster.pdf">download the PDF</a>.
+<iframe src="/images/pdfs/AGU-2024-Poster.pdf" width="100%" height="600px">
+    This browser does not support PDFs. Please <a href="/images/pdfs/AGU-2024-Poster.pdf">download the PDF</a>.
 </iframe>
 
 Background
