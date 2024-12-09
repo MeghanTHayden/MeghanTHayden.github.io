@@ -14,3 +14,4 @@ package-lock.json
 .DS_Store
 _pages/.Rhistory
 _publications/.Rhistory
+_pages/teaching.md.Rmd
