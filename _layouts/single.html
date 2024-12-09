@@ -1,71 +1,95 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title></title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="2487.7">
-  <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000}
-    p.p3 {margin: 0.0px 0.0px 18.0px 0.0px; font: 18.0px Times; -webkit-text-stroke: #000000}
-    p.p4 {margin: 0.0px 0.0px 12.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000}
-    p.p5 {margin: 0.0px 0.0px 10.0px 0.0px; font: 10.0px Times; -webkit-text-stroke: #000000}
-    p.p6 {margin: 0.0px 0.0px 10.0px 0.0px; font: 10.0px Times; color: #0000e9; -webkit-text-stroke: #0000e3}
-    p.p7 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #0000e9; -webkit-text-stroke: #0000e3}
-    span.s1 {font-kerning: none}
-    span.s2 {font: 10.0px Times; text-decoration: underline ; font-kerning: none; color: #0000e3; -webkit-text-stroke: 0px #0000e3}
-    span.s3 {text-decoration: underline ; font-kerning: none}
-    span.s4 {font: 12.0px Times; text-decoration: underline ; font-kerning: none}
-  </style>
-</head>
-<body>
-<p class="p1"><span class="s1">--- layout: default --- {% include base_path %} {% if page.header.overlay_color or page.header.overlay_image or page.header.image %} {% include page__hero.html %} {% endif %} {% if page.url != "/" and site.breadcrumbs %} {% unless paginator %} {% include breadcrumbs.html %} {% endunless %} {% endif %}</span></p>
-<p class="p1"><span class="s1">{% include sidebar.html %}</span></p>
-<p class="p1"><span class="s1">{% if page.title %}{% endif %} {% if page.excerpt %}{% endif %} {% if page.date %}{% endif %} {% if page.modified %}{% endif %}</span></p>
-<p class="p1"><span class="s1">{% unless page.header.overlay_color or page.header.overlay_image %}</span></p>
-<p class="p1"><span class="s1">{% if page.title %}</span></p>
-<h1 style="margin: 0.0px 0.0px 14.9px 0.0px; font: 18.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>{{ page.title | markdownify | remove: "</b></span></h1>
-<p class="p3"><span class="s1"><b>" | remove: "</b></span></p>
-<h1 style="margin: 0.0px 0.0px 14.9px 0.0px; font: 18.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>" }}</b></span></h1>
-<p class="p1"><span class="s1">{% endif %} {% if page.read_time %}</span></p>
-<p class="p4"><span class="s1">{% include read-time.html %}</span></p>
-<p class="p1"><span class="s1">{% endif %} {% if page.modified %}</span></p>
-<p class="p4"><span class="s1"><b>{{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</b> {{ page.modified | date: "%B %d, %Y" }}</span></p>
-<p class="p1"><span class="s1">{% endif %} {% if page.collection == 'teaching' %}</span></p>
-<p class="p4"><span class="s1">{{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}</span></p>
-<p class="p1"><span class="s1">{% elsif page.venue and page.date %}</span></p>
-<p class="p4"><span class="s1">Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}</span></p>
-<p class="p1"><span class="s1">{% elsif page.date %}</span></p>
-<p class="p4"><span class="s1"><b>{{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</b> {{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</span></p>
-<p class="p1"><span class="s1">{% endif %}</span></p>
-<p class="p1"><span class="s1">{% endunless %}</span></p>
-<p class="p1"><span class="s1">{{ content }} {% if page.citation and page.paperurl and page.slidesurl %}</span></p>
-<p class="p5"><span class="s1">Recommended citation:{{ page.citation }}<br>
-<a href="file:///Users/meha3816/Library/CloudStorage/OneDrive-UCB-O365/Desktop/MeghanTHayden.github.io/_layouts/%7B%7B%20page.paperurl%20%7D%7D"><span class="s2">Download Paper</span></a> | <a href="file:///Users/meha3816/Library/CloudStorage/OneDrive-UCB-O365/Desktop/MeghanTHayden.github.io/_layouts/%7B%7B%20page.slidesurl%20%7D%7D"><span class="s2">Download Slides</span></a></span></p>
-<p class="p1"><span class="s1">{% elsif page.citation and page.paperurl %}</span></p>
-<p class="p5"><span class="s1">Recommended citation: {{ page.citation }}<br>
-<a href="file:///Users/meha3816/Library/CloudStorage/OneDrive-UCB-O365/Desktop/MeghanTHayden.github.io/_layouts/%7B%7B%20page.paperurl%20%7D%7D"><span class="s2">Download Paper</span></a></span></p>
-<p class="p1"><span class="s1">{% elsif page.citation and page.slidesurl %}</span></p>
-<p class="p5"><span class="s1">Recommended citation: {{ page.citation }}<br>
-<a href="file:///Users/meha3816/Library/CloudStorage/OneDrive-UCB-O365/Desktop/MeghanTHayden.github.io/_layouts/%7B%7B%20page.slidesurl%20%7D%7D"><span class="s2">Download Slides</span></a></span></p>
-<p class="p1"><span class="s1">{% elsif page.citation %}</span></p>
-<p class="p5"><span class="s1">Recommended citation: {{ page.citation }}</span></p>
-<p class="p1"><span class="s1">{% elsif page.slidesurl %}</span></p>
-<p class="p6"><span class="s3"><a href="file:///Users/meha3816/Library/CloudStorage/OneDrive-UCB-O365/Desktop/MeghanTHayden.github.io/_layouts/%7B%7B%20page.slidesurl%20%7D%7D">Download Slides</a></span></p>
-<p class="p1"><span class="s1">{% endif %} {% if page.link %}</span></p>
-<p class="p7"><span class="s3"><a href="file:///Users/meha3816/Library/CloudStorage/OneDrive-UCB-O365/Desktop/MeghanTHayden.github.io/_layouts/%7B%7B%20page.link%20%7D%7D">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}<span class="s4"></span></a></span></p>
-<p class="p1"><span class="s1">{% endif %}</span></p>
-<p class="p1"><span class="s1">{% if site.data.ui-text[site.locale].meta_label %}</span></p>
-<h4 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>{{ site.data.ui-text[site.locale].meta_label }}</b></span></h4>
-<p class="p1"><span class="s1">{% endif %} {% include page__taxonomy.html %}</span></p>
-<p class="p1"><span class="s1">{% if page.share %}{% include social-share.html %}{% endif %} {% include post_pagination.html %}</span></p>
-<p class="p1"><span class="s1">{% if site.comments.provider and page.comments %} {% include comments.html %} {% endif %}</span></p>
-<p class="p1"><span class="s1">{% comment %}{% endcomment %} {% if page.id and page.related and site.related_posts.size &gt; 0 %}</span></p>
-<p class="p1"><span class="s1">{% if site.data.ui-text[site.locale].related_label %}</span></p>
-<h4 style="margin: 0.0px 0.0px 16.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</b></span></h4>
-<p class="p1"><span class="s1">{% endif %}</span></p>
-<p class="p1"><span class="s1">{% for post in site.related_posts limit:4 %} {% include archive-single.html type="grid" %} {% endfor %}</span></p>
-<p class="p1"><span class="s1">{% endif %}</span></p>
-</body>
-</html>
+---
+layout: default
+---
+
+{% include base_path %}
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% endif %}
+
+{% if page.url != "/" and site.breadcrumbs %}
+  {% unless paginator %}
+    {% include breadcrumbs.html %}
+  {% endunless %}
+{% endif %}
+
+<div id="main" role="main">
+  {% include sidebar.html %}
+
+  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+    {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+    {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+    {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">{% endif %}
+    {% if page.modified %}<meta itemprop="dateModified" content="{{ page.modified | date: "%B %d, %Y" }}">{% endif %}
+
+    <div class="page__inner-wrap">
+      {% unless page.header.overlay_color or page.header.overlay_image %}
+        <header>
+          {% if page.title %}<h1 class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>{% endif %}
+          {% if page.read_time %}
+            <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
+          {% endif %}
+        {% if page.modified %}
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></p>
+        {% endif %}
+        
+        {% if page.collection == 'teaching' %}
+          <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+        {% elsif page.venue and page.date %}
+          <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+        {% elsif page.date %}
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
+        {% endif %}    
+        </header>
+      {% endunless %}
+
+      <section class="page__content" itemprop="text">
+        {{ content }}
+
+        {% if page.citation and page.paperurl and page.slidesurl %}
+          <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.slidesurl }}">Download Slides</a></p>
+        {% elsif page.citation and page.paperurl %}
+          <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a></p>
+        {% elsif page.citation and page.slidesurl %}
+          <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.slidesurl }}">Download Slides</a></p>
+        {% elsif page.citation %}
+          <p style="font-size: smaller">Recommended citation: {{ page.citation }}</p>
+        {% elsif page.slidesurl %}
+          <p style="font-size: smaller"><a href="{{ page.slidesurl }}">Download Slides</a></p>
+        {% endif %}
+
+        {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
+      </section>
+
+      <footer class="page__meta">
+        {% if site.data.ui-text[site.locale].meta_label %}
+          <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
+        {% endif %}
+        {% include page__taxonomy.html %}
+      </footer>
+
+      {% if page.share %}{% include social-share.html %}{% endif %}
+
+      {% include post_pagination.html %}
+    </div>
+
+    {% if site.comments.provider and page.comments %}
+      {% include comments.html %}
+    {% endif %}
+  </article>
+
+  {% comment %}<!-- only show related on a post page when not disabled -->{% endcomment %}
+  {% if page.id and page.related and site.related_posts.size > 0 %}
+    <div class="page__related">
+      {% if site.data.ui-text[site.locale].related_label %}
+        <h4 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h4>
+      {% endif %}
+      <div class="grid__wrapper">
+        {% for post in site.related_posts limit:4 %}
+          {% include archive-single.html type="grid" %}
+        {% endfor %}
+      </div>
+    </div>
+  {% endif %}
+</div>
