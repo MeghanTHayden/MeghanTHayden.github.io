@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+{# include base_path #}
 
 [Download my CV](/files/Hayden-CV-12-6-2024.pdf)
 
