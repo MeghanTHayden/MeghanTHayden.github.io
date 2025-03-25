@@ -12,6 +12,7 @@ I am a PhD candidate in the [Dee Lab](https://www.colorado.edu/ebio/laura-dee) i
 
 Publications
 ======
+
 <span style="font-size: 12px;">
 
 1. <strong>Hayden, M.T.</strong>, Van Cleemput, E., Suding, K., Lezberg, A., Anacker, B., & Dee, L. (2024). High resolution spectral data predicts taxonomic diversity in low diversity grasslands. <em>Ecological Solutions and Evidence</em>. <a href="https://doi.org/10.1002/2688-8319.12365">article link</a><br><br>
@@ -24,7 +25,7 @@ Publications
 
 5. Van Kleunen, L., Peterson, K., <strong>Hayden, M.T.</strong>, Keyes, A., Li, H., & Dee, L. (2023). A predictive framework for species introductions under uncertainty and multiple management objectives. <em>Ecology Letters</em>. <a href="https://doi.org/10.1111/ele.14212">article link</a><br><br>
 
-6. <strong>Hayden, M.T.</strong>, Holmes, K.D., and L. M. A. Hernández (2021). Multigenerational consequences of aphid size on offspring phenotype and reproduction. <em>Entomologia Experimentalis et Applicata</em>, 169: 947–958. <a href="https://doi.org/10.1111/eea.13086">article link</a>
+6. <strong>Hayden, M.T.</strong>, Holmes, K.D., and L. M. A. Hernández (2021). Multigenerational consequences of aphid size on offspring phenotype and reproduction. <em>Entomologia Experimentalis et Applicata</em>. 169: 947–958. <a href="https://doi.org/10.1111/eea.13086">article link</a>
 
 </span>
 
