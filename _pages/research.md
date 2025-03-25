@@ -6,6 +6,10 @@ excerpt: "My Work"
 author_profile: true
 ---
 
+I am a PhD candidate in the [Dee Lab](https://www.colorado.edu/ebio/laura-dee) in the [Department of Ecology & Evolutionary Biology](https://www.colorado.edu/ebio/) at University of Colorado, Boulder. Learn more about my work below!
+
+<hr>
+
 Publications
 ======
 1. **Hayden, M.T.**, Van Cleemput, E., Suding, K., Lezberg, A., Anacker, B., & Dee, L. (2024). High resolution spectral data predicts taxonomic diversity in low diversity grasslands. Ecological Solutions and Evidence. https://doi.org/10.1002/2688-8319.12365 [article link](https://doi.org/10.1002/2688-8319.12365)
@@ -20,20 +24,18 @@ Publications
 
 6. **Hayden, M.T.**, Holmes, K.D., and L. M. A. Hernández (2021) Multigenerational consequences of aphid size on offspring phenotype and reproduction. Entomologia Experimentalis et Applicata. 169: 947-958. https://doi.org/10.1111/eea.13086 [article link](https://doi.org/10.1111/eea.13086)
 
----
+<hr>
 
 Impacts of Invasive Species to Biodiversity & Ecosystem Functioning
 ======
 
-One of my ongoing PhD projects (funded by the NASA Biodiversity Survey of the Cape - BioSCape [BioSCape](https://www.bioscape.io/)) investigates the complex interactions between invasion, biodiversity, and ecosystem function in the Cape of South Africa. I combine remote sensing with statistical approaches for causal inference to both map critical ecological variables and evaluate the relationships among them. By focusing on how invasion directly and indirectly affects ecosystem functioning—such as water use—I aim to fill critical gaps in our understanding of how invasion operates on a landscape scale. This research maps invasive trees at a high spatial resolution and evaluates both the impacts of invasion direclty and indirectly (via changes in functional form and biodiversity) on water use, providing insights that are essential for more informed management of invasive species in the region.
+One of my ongoing PhD projects (funded by the NASA Biodiversity Survey of the Cape - [BioSCape](https://www.bioscape.io/)) investigates the complex interactions between invasion, biodiversity, and ecosystem function in the Cape of South Africa. I combine remote sensing with statistical approaches for causal inference to both map critical ecological variables and evaluate the relationships among them. By focusing on how invasion directly and indirectly affects ecosystem functioning—such as water use—I aim to fill critical gaps in our understanding of how invasion operates on a landscape scale. This research maps invasive trees at a high spatial resolution and evaluates both the impacts of invasion direclty and indirectly (via changes in functional form and biodiversity) on water use, providing insights that are essential for more informed management of invasive species in the region.
 
 [View AGU 2024 Poster (PDF)](/files/AGU-2024-Poster.pdf)
 
-<iframe src="/files/AGU-2024-Poster.pdf" width="100%" height="600px">
-    This browser does not support PDFs. Please <a href="/files/AGU-2024-Poster.pdf">download the PDF</a>.
-</iframe>
+<img src="/files/Droughtnet.jpg" alt="IDE Experimental site in Boulder, CO" style="max-width: 100%; height: auto;">
 
----
+<hr>
 
 Role of Biodiversity in Ecosystem Stability
 ======
@@ -46,11 +48,11 @@ I use data from across >70 experimental sites where rainfall has been manipulate
     This browser does not support JPGs. Please <a href="/files/Droughtnet.jpg">download the image</a>.
 </iframe>
 
----
+<hr>
 
 Exploring the Future of Remote Sensing for Biodiversity Monitoring
 ======
 
 Throughout my dissertation work, I explore the potential for remote sensing to advance and inform ecological inquiries into biodiversity and its role in ecosystems. A few examples of this ongoing work include:
-- I evaluate uses of spectral diversity in natural, highly diverse grassland ecosystems in **High resolution spectral data predicts taxonomic diversity in low diversity grasslands**. [DOI](https://doi.org/10.1002/2688-8319.1236)
+- I evaluate uses of spectral diversity in natural, highly diverse grassland ecosystems in **High resolution spectral data predicts taxonomic diversity in low diversity grasslands**. [DOI](https://doi.org/10.1002/2688-8319.1236).
 - I explore the scale dependence of spectral diversity across diverse systems in **Investigating scale dependence in remotely sensed biodiversity: Leveraging big data from the National Ecological Observatory Network** (*in prep*).

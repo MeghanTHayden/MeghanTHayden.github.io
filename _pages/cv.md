@@ -14,16 +14,18 @@ Education
 * Ph.D in Ecology & Evolutionary Biology, University of Colorado Boulder, 2025 (expected)
 * B.A. in Biology, Cornell University, 2019
 
+<hr>
+
 Work experience
 ======
 * Spring 2024 - Present: Graduate Research Assistant
   * University of Colorado Boulder, Ecology & Evolutionary Biology
-  * Funded by (NASA Biodiversity Survey of the Cape)[https://www.bioscape.io/]
+  * Funded by [NASA Biodiversity Survey of the Cape](https://www.bioscape.io/)
   * Supervisors: Laura Dee (CU Boulder) & Peter Adler (Utah State University; BioSCape PI)
 
 * Spring 2023 - Spring 2024: Graduate Research Assistant
   * University of Colorado Boulder, Earth Lab, Cooperative Institute for Research in the Environment
-  * Funded by (NASA Biodiversity Survey of the Cape)[https://www.bioscape.io/]
+  * Funded by [NASA Biodiversity Survey of the Cape](https://www.bioscape.io/)
   * Supervisors: Matt Rossi (CU Boulder) & Natasha Stavros (Ball Aerospace; BioSCape PI)
   
 * Fall 2021: Graduate Research Assistant
@@ -38,7 +40,8 @@ Work experience
   * National Center for Atmospheric Research
   * Supervisor: Will Weider
   
-
+<hr>
+  
 Skills
 ======
 * Programming
@@ -55,6 +58,7 @@ Skills
   * Experience pulling together large datasets from different sources, including satellite imagery (Sentinel-2, ECOSTRESS, etc.).
   * Proficient using ArcGIS, QGIS and ENVI, as well as programming for remote sensing analyses (see above).
 
+<hr>
 
 Publications
 ======
