@@ -42,6 +42,10 @@ Another ongoing PhD project investigates the role of biodiversity in stabilizing
 
 I use data from across >70 experimental sites where rainfall has been manipulated for multiple years to explore the role of diversity for stability in biomass production. I test a novel approach for capturing how the diversity of species' responses - or response diversity (See [Ross et al. 2023](doi.org/10.1111/2041-210X.14087)) - as an indicator of stability.
 
+<iframe src="/files/Droughtnet.jpg" width="100%" height="600px">
+    This browser does not support JPGs. Please <a href="/files/Droughtnet.jpg">download the image</a>.
+</iframe>
+
 ---
 
 Exploring the Future of Remote Sensing for Biodiversity Monitoring
