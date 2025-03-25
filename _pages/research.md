@@ -12,6 +12,7 @@ I am a PhD candidate in the [Dee Lab](https://www.colorado.edu/ebio/laura-dee) i
 
 Publications
 ======
+<span style="font-size: 14px;">
 1. **Hayden, M.T.**, Van Cleemput, E., Suding, K., Lezberg, A., Anacker, B., & Dee, L. (2024). High resolution spectral data predicts taxonomic diversity in low diversity grasslands. Ecological Solutions and Evidence. https://doi.org/10.1002/2688-8319.12365 [article link](https://doi.org/10.1002/2688-8319.12365)
 
 2. Ramachandran, A., Dee, L., **Hayden, M.T.**, & Suding, K. (2024). Leveraging plant functional traits in the design of nature-based solutions: a research agenda. Journal of Ecology. https://doi.org/10.1111/1365-2745.14371 [article link](https://doi.org/10.1111/1365-2745.14371)
@@ -22,7 +23,7 @@ Publications
 
 5. Van Kleunen, L., Peterson, K., **Hayden, M.T.**, Keyes, A., Li, H., & Dee, L. (2023). A predictive framework for species introductions under uncertainty and multiple management objectives. Ecology Letters. https://doi.org/10.1111/ele.14212 [article link](https://doi.org/10.1111/ele.14212)
 
-6. **Hayden, M.T.**, Holmes, K.D., and L. M. A. Hernández (2021) Multigenerational consequences of aphid size on offspring phenotype and reproduction. Entomologia Experimentalis et Applicata. 169: 947-958. https://doi.org/10.1111/eea.13086 [article link](https://doi.org/10.1111/eea.13086)
+6. **Hayden, M.T.**, Holmes, K.D., and L. M. A. Hernández (2021) Multigenerational consequences of aphid size on offspring phenotype and reproduction. Entomologia Experimentalis et Applicata. 169: 947-958. https://doi.org/10.1111/eea.13086 [article link](https://doi.org/10.1111/eea.13086) </span>
 
 <hr>
 
@@ -33,7 +34,9 @@ One of my ongoing PhD projects (funded by the NASA Biodiversity Survey of the Ca
 
 [View AGU 2024 Poster (PDF)](/files/AGU-2024-Poster.pdf)
 
-<img src="/files/Droughtnet.jpg" alt="IDE Experimental site in Boulder, CO" style="max-width: 100%; height: auto;">
+<iframe src="/files/AGU-2024-Poster.pdf" width="100%" height="600px">
+    This browser does not support PDFs. Please <a href="/files/AGU-2024-Poster.pdf">download the PDF</a>.
+</iframe>
 
 <hr>
 
@@ -44,9 +47,7 @@ Another ongoing PhD project investigates the role of biodiversity in stabilizing
 
 I use data from across >70 experimental sites where rainfall has been manipulated for multiple years to explore the role of diversity for stability in biomass production. I test a novel approach for capturing how the diversity of species' responses - or response diversity (See [Ross et al. 2023](doi.org/10.1111/2041-210X.14087)) - as an indicator of stability.
 
-<iframe src="/files/Droughtnet.jpg" width="100%" height="600px">
-    This browser does not support JPGs. Please <a href="/files/Droughtnet.jpg">download the image</a>.
-</iframe>
+<img src="/files/Droughtnet.jpg" alt="IDE Experimental site in Boulder, CO" style="max-width: 100%; height: auto;">
 
 <hr>
 
