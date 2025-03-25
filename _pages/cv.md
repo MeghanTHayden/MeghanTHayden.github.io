@@ -9,6 +9,8 @@ redirect_from:
 
 [Download my CV](/files/Hayden-CV-12-6-2024.pdf) or read a summary below.
 
+<hr>
+
 Education
 ======
 * Ph.D in Ecology & Evolutionary Biology, University of Colorado Boulder, 2025 (expected)
@@ -66,6 +68,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+<hr>
+  
 Talks
 ======
 Coming soon!
@@ -75,6 +79,8 @@ Coming soon!
   {% endfor %}</ul>
 {% endcomment %}
 
+<hr>
+
 Teaching
 ======
 Coming soon!
@@ -83,6 +89,8 @@ Coming soon!
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 {% endcomment %}
+
+<hr>
 
 Service and leadership
 ======
