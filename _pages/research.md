@@ -8,7 +8,7 @@ author_profile: true
 
 I am a PhD candidate in the [Dee Lab](https://www.colorado.edu/ebio/laura-dee) in the [Department of Ecology & Evolutionary Biology](https://www.colorado.edu/ebio/) at University of Colorado, Boulder. Learn more about my work below!
 
-<hr>
+<hr style="border: 1px solid #333;">
 
 Publications
 ======
