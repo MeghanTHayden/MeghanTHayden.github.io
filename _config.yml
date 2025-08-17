@@ -23,9 +23,9 @@ logo                     : "bio-photo.jpg" # Add a logo ahead of site name
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "MT Hayden"
+  name             : "MT Hayden, PhD"
   pronouns         : "she/her"  
-  bio              : "PhD Candidate in Ecology"
+  bio              : "Ecologist"
   location         : "Boulder, CO"
   employer         : "University of Colorado Boulder"
   uri              : # URL
