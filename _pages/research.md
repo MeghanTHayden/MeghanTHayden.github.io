@@ -6,7 +6,7 @@ excerpt: "My Work"
 author_profile: true
 ---
 
-I am a PhD candidate in the [Dee Lab](https://www.colorado.edu/ebio/laura-dee) in the [Department of Ecology & Evolutionary Biology](https://www.colorado.edu/ebio/) at University of Colorado, Boulder. Learn more about my work below!
+I recently completed my PhD in the [Dee Lab](https://www.colorado.edu/ebio/laura-dee) in the [Department of Ecology & Evolutionary Biology](https://www.colorado.edu/ebio/) at University of Colorado, Boulder. Learn more about my work below!
 
 <hr style="border: 1.5px solid #333;">
 

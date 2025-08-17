@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Ecology & Evolutionary Biology, University of Colorado Boulder, 2025 (expected)
+* Ph.D in Ecology & Evolutionary Biology, University of Colorado Boulder, 2025
 * B.A. in Biology, Cornell University, 2019
 
 <hr>
@@ -59,6 +59,17 @@ Skills
   * Experience with collecting data via handheld and drone-mounted instruments.
   * Experience pulling together large datasets from different sources, including satellite imagery (Sentinel-2, ECOSTRESS, etc.).
   * Proficient using ArcGIS, QGIS and ENVI, as well as programming for remote sensing analyses (see above).
+  
+* Statistical Analysis & Causal Inference
+	* Experienced in causal inference approaches for observational ecological data, including:
+	  * Propensity score matching and weighting
+	  * Causal mediation analysis
+	  * Regression discontinuity designs
+	  * Difference-in-differences frameworks
+	*	Skilled in handling hierarchical and spatial data, including cross-site synthesis (e.g., international drought network experiments).
+	*	Strong background in uncertainty quantification and propogation, including bootstrapping and conformal prediction.
+	*	Experienced presenting complex statistical results in interpretable visualizations for both scientific and applied audiences.
+  
 
 <hr>
 
